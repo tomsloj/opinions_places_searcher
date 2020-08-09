@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/opinions.iml" filepath="$PROJECT_DIR$/opinions.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="com.github.akarazhev:json-simple:1.1" type="repository">
+      <properties maven-id="com.github.akarazhev:json-simple:1.1" />
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="com.googlecode.json-simple:json-simple:1.1.1" type="repository">
+      <properties maven-id="com.googlecode.json-simple:json-simple:1.1.1" />
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.1.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/junit-4.10.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.1-javadoc.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/junit-4.10-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="org.json:json:20140107" type="repository">
+      <properties maven-id="org.json:json:20140107" />
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/lib/json-20140107.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$PROJECT_DIR$/lib/json-20140107-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$PROJECT_DIR$/lib/json-20140107-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
